@@ -176,7 +176,7 @@ table.table.table_div tr td {
 
 
 
-            <!--<div class="gauto-main-slide slide-item-2" style="background: url(assets/img/slider-2.jpg);background-size:cover;">
+            <div class="gauto-main-slide slide-item-2" style="background: url(assets/img/slider-2.jpg);background-size:cover;">
                 <div class="gauto-main-caption">
                     <div class="gauto-caption-cell">
                         <div class="container">
@@ -192,7 +192,7 @@ table.table.table_div tr td {
                         </div>
                     </div>
                 </div>
-            </div>-->
+            </div>
         </div>
     </section>
     <!-- Slider Area End -->
